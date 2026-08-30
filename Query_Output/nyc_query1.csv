@@ -1,0 +1,16 @@
+PULocationID,pu_zone,pu_borough,DOLocationID,do_zone,do_borough,total_trips,"ROUND(AVG(trip_distance),2)","ROUND(AVG(tip_amount),2)",avg_base_fare,avg_total_fare
+132,JFK Airport,Queens,1,Newark Airport,EWR,272,36.81,12.6,118.07,155.46
+138,LaGuardia Airport,Queens,1,Newark Airport,EWR,68,29.21,13.13,100.15,134.86
+262,Yorkville East,Manhattan,1,Newark Airport,EWR,51,22.36,15.0,80.0,110.28
+151,Manhattan Valley,Manhattan,1,Newark Airport,EWR,72,21.56,14.66,77.35,107.53
+236,Upper East Side North,Manhattan,1,Newark Airport,EWR,136,21.03,13.95,76.88,106.41
+238,Upper West Side North,Manhattan,1,Newark Airport,EWR,145,20.42,13.76,74.52,103.66
+141,Lenox Hill West,Manhattan,1,Newark Airport,EWR,64,20.08,12.14,75.57,103.6
+163,Midtown North,Manhattan,1,Newark Airport,EWR,733,19.39,11.12,74.07,103.15
+233,UN/Turtle Bay South,Manhattan,1,Newark Airport,EWR,188,19.21,12.04,74.03,103.08
+237,Upper East Side South,Manhattan,1,Newark Airport,EWR,190,18.97,12.81,73.08,101.81
+162,Midtown East,Manhattan,1,Newark Airport,EWR,615,18.5,12.03,72.58,101.79
+229,Sutton Place/Turtle Bay North,Manhattan,1,Newark Airport,EWR,84,18.89,13.31,73.79,101.28
+161,Midtown Center,Manhattan,1,Newark Airport,EWR,806,18.43,12.14,72.04,101.24
+43,Central Park,Manhattan,1,Newark Airport,EWR,119,19.29,12.35,73.34,101.11
+239,Upper West Side South,Manhattan,1,Newark Airport,EWR,218,19.33,12.62,71.67,99.76

@@ -1,0 +1,16 @@
+pu_borough,pu_zone,total_trips,avg_duration_mins,avg_net_fare,revenue_per_minute,projected_hourly_rate
+Queens,South Ozone Park,356,21.57,50.38,6.96,417.59
+Manhattan,Randalls Island,338,15.92,56.6,4.62,277.31
+Queens,Maspeth,641,17.72,55.76,3.6,216.22
+Queens,Richmond Hill,210,19.13,39.9,3.5,210.07
+Queens,Corona,644,22.1,60.6,3.07,184.23
+Queens,Flushing Meadows-Corona Park,2996,24.23,63.91,3.03,181.56
+Queens,Kew Gardens,526,21.62,49.67,2.82,169.27
+Queens,Long Island City/Hunters Point,4505,15.03,32.22,2.62,157.26
+Queens,Briarwood/Jamaica Hills,995,26.83,60.1,2.43,145.53
+Queens,Rego Park,641,19.59,42.83,2.34,140.28
+Queens,Steinway,2543,14.61,30.0,2.33,139.6
+Queens,Elmhurst,2075,16.11,35.63,2.31,138.85
+Queens,Jamaica,1040,28.65,58.61,2.3,137.72
+Queens,Springfield Gardens South,274,38.59,59.55,2.27,136.09
+Manhattan,Roosevelt Island,161,17.03,23.09,2.13,127.55

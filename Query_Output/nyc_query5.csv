@@ -1,0 +1,5 @@
+time_window,total_trips,avg_base_fare,avg_tip,avg_cc_tip_pct,zero_tip_pct
+Evening Rush (5-9PM),1843952,12.04,2.28,26.89,24.63
+Night / Late Owl (10PM-5AM),1028165,12.89,2.28,26.41,28.18
+Afternoon (12-4PM),1687737,12.39,2.15,26.17,30.22
+Morning Rush (6-11AM),1491696,11.79,2.08,25.39,26.69

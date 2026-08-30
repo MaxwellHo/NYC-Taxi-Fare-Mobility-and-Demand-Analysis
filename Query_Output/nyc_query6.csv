@@ -1,0 +1,3 @@
+trip_type,total_trips,avg_distance_miles,avg_duration_mins,avg_total_fare,revenue_per_mile,driver_revenue_per_min
+Airport Route,416371,12.71,31.59,49.93,4.38,1.61
+Intra-City Route,5635179,2.13,11.65,15.87,10.27,1.63

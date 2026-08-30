@@ -1,0 +1,7 @@
+borough,pickup_count,dropoff_count,net_trip_balance,pickup_to_dropoff_ratio
+Brooklyn,47182,223925,-176743,0.21
+Bronx,4286,32376,-28090,0.13
+EWR,25,11077,-11052,0.0
+Staten Island,246,1401,-1155,0.18
+Queens,375188,291210,83978,1.29
+Manhattan,5624623,5491561,133062,1.02
